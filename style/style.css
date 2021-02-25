@@ -1,0 +1,24 @@
+
+/*Body*/
+body{
+    background-color: floralwhite;
+}
+
+/*Tittles*/
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    color: goldenrod;
+    text-shadow: gray;
+    text-decoration-style: double;
+}
+
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

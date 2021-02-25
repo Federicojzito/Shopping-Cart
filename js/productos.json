@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Notebook",
+      "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+      "precio": 600,
+      "id": 2,
+      "title": "Paisaje",
+      "thumbnailUrl": "https://picsum.photos/id/10/600"
+    },
+    {
+      "precio": 700,
+      "id": 3,
+      "title": "Celular",
+      "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+      "precio": 800,
+      "id": 4,
+      "title": "Taza ",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 900,
+      "id": 5,
+      "title": "Gatito",
+      "thumbnailUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+      "precio": 1000,
+      "id": 6,
+      "title": "Vacaciones",
+      "thumbnailUrl": "https://picsum.photos/id/50/600"
+    }
+  ]
